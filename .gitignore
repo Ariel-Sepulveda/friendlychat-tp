@@ -1,0 +1,13 @@
+node_modules
+.firebaserc
+firebase.json
+webpack.config.js
+.firebase
+src/firebase-config.js
+src/firebase-messaging-sw.js
+public/images
+public/scripts
+public/styles
+public/favicon.ico
+public/firebase-messaging-sw.js
+public/manifest.json
